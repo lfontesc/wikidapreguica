@@ -2,9 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+`page under construction`.
+|========================================         |
 
-[Configurando 2 monitores no SlackWare](./teste.md).
+[Configurando 2 monitores no SlackWare](./teste.md).W
+[Compilando o Kernel](./teste.md).
+[Instalando e configurando o i3wm ](./teste.md).
+[Configurando usuarios no Linux](./teste.md).
 
 There should be whitespace between paragraphs.
 
