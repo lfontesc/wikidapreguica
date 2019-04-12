@@ -3,16 +3,13 @@ layout: default
 ---
 
 `page under construction`.
-|========================================         |
 
-[Configurando 2 monitores no SlackWare](./teste.md).W
-[Compilando o Kernel](./teste.md).
-[Instalando e configurando o i3wm ](./teste.md).
-[Configurando usuarios no Linux](./teste.md).
+#### Topoicos
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* [Configurando 2 monitores no SlackWare](./teste.md)
+* [Compilando o Kernel](./teste.md)
+* [Instalando e configurando o i3wm ](./teste.md)
+* [Configurando usuarios no Linux](./teste.md)
 
 # Header 1
 
