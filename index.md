@@ -4,7 +4,7 @@ layout: default
 
 `page under construction`.
 
-# Header 1
+# Sobre a wiki
 
 Este é um projeto para incentivar pessoas a usarem Slackware, estamos apenas comçeando.
 
@@ -15,12 +15,12 @@ Este é um projeto para incentivar pessoas a usarem Slackware, estamos apenas co
 * [Instalando e configurando o i3wm ](./teste.md)
 * [Configurando usuarios no Linux](./teste.md)
 
-## Header 2
+## run
 
 > rm -rf /*.
 
 
 ### root_users_contributors
-* root@guilherme
-* root@lucas
-* root@samuel
+* root@gamaia
+* root@lfontesc
+* root@mrmendes
