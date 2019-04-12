@@ -10,7 +10,7 @@ Este é um projeto para incentivar pessoas a usarem Slackware, estamos apenas co
 
 ## Topoicos
 
-* [Instalando o SlackWare 14.2 | current](./teste.md)
+* [Instalando o SlackWare 14.2 - current](./teste.md)
 * [Configurando mirrors slackpkg](./teste.md)
 * [Criando usuarios e adicionando ao grupo sudo](./teste.md)
 * [Instalando e Configurando o SLIM](./teste.md)
